@@ -16,7 +16,7 @@
 
 ### Objective
 
-The objective of this project is to create a to-do list Using HTML, CSS and Javascript
+The objective of this project is to create a TO-DO LIST Using HTML, CSS and Javascript
 
 ### Purpose
 
