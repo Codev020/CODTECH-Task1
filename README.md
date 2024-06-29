@@ -11,7 +11,7 @@ Mentor:- SRAVANI GOUNI
 
 ### Objective
 
-the objective of this project is to create a to-do list Using HTML, CSS and Javascript
+The objective of this project is to create a to-do list Using HTML, CSS and Javascript
 
 ### Purpose
 
@@ -32,14 +32,10 @@ Gain practical experience with HTML, CSS, and JavaScript.
 
 ### Project Phases:
 
-HTML Structure: Define the basic layout of the to-do list using HTML elements like forms, input fields, and unordered lists.
-CSS Styling: Apply styles to enhance the visual appearance using CSS properties like color, font size, and layout.
-JavaScript Functionality: Implement the core functionalities using JavaScript. This involves:
+- **HTML Structure**: Define the basic layout of the to-do list using HTML elements like forms, input fields, and unordered lists.
+- **CSS Styling**: Apply styles to enhance the visual appearance using CSS properties like color, font size, and layout.
+- **JavaScript Functionality**: Implement the core functionalities using JavaScript. This involves:
 Accessing and manipulating HTML elements using the Document Object Model (DOM).
 Handling user interactions through event listeners (e.g., clicking a button to add a task).
 Updating the to-do list on the web page dynamically based on user actions.
-Benefits:
 
-Learn web development fundamentals: Gain hands-on experience with core web technologies.
-Build a practical application: Create a useful tool for managing tasks.
-Enhance your programming skills: Practice DOM manipulation, event handling, and basic data structures like arrays.
