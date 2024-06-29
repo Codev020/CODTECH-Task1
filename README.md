@@ -14,6 +14,9 @@
 
 ### Project:- To create a To-Do list Web Application
 
+![image](https://github.com/Codev020/CODTECH-Task1/assets/171026919/cb176ea2-9f17-4eca-aff1-f416c2e39aaa)
+
+
 ### Objective
 
 The objective of this project is to create a TO-DO LIST Using HTML, CSS and Javascript
