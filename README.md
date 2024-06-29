@@ -32,7 +32,7 @@ Gain practical experience with HTML, CSS, and JavaScript.
 
 ### Project Phases:
 
-- **HTML Structure**: Define the basic layout of the to-do list using HTML elements like forms, input fields, and unordered lists.
+- **HTML Structure**: To Define the basic layout of the to-do list using HTML elements like forms, input fields, and unordered lists.
 - **CSS Styling**: Apply styles to enhance the visual appearance using CSS properties like color, font size, and layout.
 - **JavaScript Functionality**: Implement the core functionalities using JavaScript. This involves:
 Accessing and manipulating HTML elements using the Document Object Model (DOM).
